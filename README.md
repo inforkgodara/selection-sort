@@ -1,6 +1,6 @@
 # Selection Sort
 
-A simple single class implementation of selection sort in Java. The user will be prompted to input the number of elements in a list array which they want to enter. The user then will choose a element to be sorted in the list. list array is divided into two parts, the sorted part at the left end and the unsorted part at the right end. Initially, the sorted part is empty and the unsorted part is the entire list.
+A simple single class implementation of selection sort in Java. The user will be prompted to input the number of elements in a list array which they want to enter. The list array is divided into two parts, the sorted part at the left end and the unsorted part at the right end. Initially, the sorted part is empty and the unsorted part is the entire list.
 
 The smallest element is selected from the unsorted array and swapped with the left most element, and that element becomes a part of the sorted array. This process continues moving unsorted array boundary from one element to the right.
 
