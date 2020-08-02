@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * This is an implementation of the selection sort algorithm.
- * @author Ramesh Kumar
+ * @author @inforkgodara
  *
  */
 public class SelectionSort {
